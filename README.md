@@ -39,7 +39,7 @@ const description = (
       esc: 'Отменить'
     }} />
 
-</Sb.TextContainer>
+  </Sb.TextContainer>
 );
 ```
 
